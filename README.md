@@ -37,7 +37,7 @@ This project performs customer segmentation using **K-Means Clustering** on the 
 - Plotted the clusters with colored visualizations
 - Provided business insights for each cluster
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python, Pandas, Matplotlib, Seaborn
 - Scikit-learn (KMeans, PCA, StandardScaler)
